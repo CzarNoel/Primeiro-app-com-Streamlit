@@ -1,2 +1,2 @@
-# Primeiro-app-com-Streamlit
-App bem simples com preço de fechamento e volume do google e apple
+# Primeiro App com Streamlit 
+ App bem simples com valores de fechamento e volume da Apple e Google 
